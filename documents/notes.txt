@@ -4,3 +4,5 @@ Python Data Science Handbook - Jake VanderPlas
 
 Справочные таблицы по Matplotlib
 https://matplotlib.org/cheatsheets/
+
+https://pip.pypa.io/en/stable/getting-started/
